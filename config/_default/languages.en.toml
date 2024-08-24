@@ -1,0 +1,21 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Adam Dghoghi"
+
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+copyright = "&copy; 2024 Adam Dghoghi . All Rights Reserved"
+
+[author]
+#name = "Techrow"
+image = "ana.jpeg"
+headline = "Computer Scientist/Designer"
+links = [
+    {linkedin = "https://www.linkedin.com/in/adam-dghoghi-769909272/"}
+]
+
