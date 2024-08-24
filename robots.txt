@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://AdamDghoghi.github.io/sitemap.xml
