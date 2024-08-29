@@ -17,5 +17,8 @@ image = "ana.jpeg"
 headline = "Computer Scientist/Designer"
 links = [
     {linkedin = "https://www.linkedin.com/in/adam-dghoghi-769909272/"}
+    {github = "https://github.com/AdamDghoghi"}
+    {instagram = "https://www.instagram.com/techr0w/"}
+    {discord = "https://discord.com/channels/@me"}
 ]
 
